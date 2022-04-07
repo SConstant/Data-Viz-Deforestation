@@ -44,6 +44,9 @@ Please see the Github for this assignment below
 
 <https://github.com/SConstant/Data-Viz-Deforestation>
 
+Please see this link for a full working version of the animations and interactive plots
+
+https://rpubs.com/sophiescodes/887678
 
 
 ##Introduction 
